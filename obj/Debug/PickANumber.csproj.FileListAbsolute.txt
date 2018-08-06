@@ -1,9 +1,0 @@
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\bin\Debug\PickANumber.exe.config
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\bin\Debug\PickANumber.exe
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\bin\Debug\PickANumber.pdb
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\obj\Debug\PickANumber.csprojResolveAssemblyReference.cache
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\obj\Debug\PickANumber.csproj.CoreCompileInputs.cache
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\obj\Debug\PickANumber.exe
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\obj\Debug\PickANumber.pdb
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\bin\Debug\PickANumber.exe.CodeAnalysisLog.xml
-C:\Users\mayrm\Documents\C# Projects\PickANumber\PickANumber\bin\Debug\PickANumber.exe.lastcodeanalysissucceeded
